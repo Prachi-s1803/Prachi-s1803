@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Prachi Saini
 
-<!--
-**Prachi-s1803/Prachi-s1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀 I'm an aspiring Data Analyst passionate about uncovering insights from data, building compelling dashboards, and solving real-world problems through data-driven solutions.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently sharpening my Data Analysis and Communication skills
+- 🎯 Skilled in Python, SQL, Power BI, and Advanced Excel
+- 🎨 Passionate about creating visually stunning, insight-rich dashboards
+- 💼 Aspiring to grow into a strong, well-rounded Data Analyst
+- 🌍 Based in Kurukshetra, India
+
+## 🛠️ Tools & Technologies
+
+**Languages:** Python, SQL  
+**Data Visualization:** Power BI, Excel  
+**EDA & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
+
+## 🌟 Fun Fact
+
+When I'm not working with data, you'll find me sketching, playing badminton, or listening to music. 🎨🏸🎧
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachisaini18/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachisaini1803@gmail.com)
